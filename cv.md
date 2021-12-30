@@ -25,4 +25,4 @@ At the moment I'm learning JS)
   * WayUp html
   * WayUp JS
 ## English
-So far A2-B1    
+So far A2-B1     
